@@ -68,11 +68,11 @@ function Dshow() {
                 <table class="table">
                     <thead>
                         <tr>
-                            <th scope="col">เลขครุภัณฑ์ที่เบิก</th>
+                            <th scope="col">เลขครุภัณฑ์</th>
                             <th scope="col">ชื่อครุภัณฑ์</th>
-                            <th scope="col">เบิกไปใช้ที่ไหน</th>
-                            <th scope="col">วันที่เบิก</th>
-                            <th scope="col">ชื่อผู้เบิก</th>
+                            <th scope="col">ยืมไปใช้ที่ไหน</th>
+                            <th scope="col">วันที่ยืม</th>
+                            <th scope="col">ชื่อผู้ยืม</th>
                             <th scope="col">สถานะ</th>
                         </tr>
                     </thead>

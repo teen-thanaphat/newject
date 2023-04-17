@@ -84,8 +84,8 @@ function Dshow() {
               <th scope="col">ลำดับ</th>
               <th scope="col">เลขครุภัณฑ์</th>
               <th scope="col">ชื่อครุภัณฑ์</th>
-              <th scope="col">วันที่เบิก</th>
-              <th scope="col">ชื่อผู้เบิก</th>
+              <th scope="col">วันที่ยืม</th>
+              <th scope="col">ชื่อผู้ยืม</th>
               <th scope="col">สถานะ</th>
             </tr>
           </thead>

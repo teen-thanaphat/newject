@@ -69,7 +69,7 @@ function Mshow() {
                     <thead>
                         <tr>
 
-                            <th scope="col">เลขวัสดุที่เบิก</th>
+                            <th scope="col">เลขวัสดุ</th>
                             <th scope="col">ชื่อวัสดุ</th>
                             <th scope="col">จำนวนที่เบิก</th>
                             <th scope="col">วันที่เบิก</th>
